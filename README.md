@@ -19,6 +19,7 @@
 
 
 ## OUTPUT
+![sow ex 10](https://github.com/Soundaryaveeran906/EX10_Web-Design/assets/127818071/715a8370-f350-4436-9f87-8b4bb31032bb)
 
 
 ## RESULT
